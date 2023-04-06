@@ -1,0 +1,4 @@
+npm run dev   --> roda o vue
+
+Ctrl + c  --> para de rodar o vue
+
