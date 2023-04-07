@@ -1,5 +1,8 @@
 <template>
+  <div>
   <primeiro-componente/>
+  <p>O dade de ep e {{ testando }}</p>
+ </div>
 </template>
 
 <script>
@@ -9,6 +12,11 @@ export default{
   name: 'App',
   components: {
     primeiroComponente
+  },
+  data(){
+    return {
+      testando: 'Teste'
+    }
   }
 }
 
