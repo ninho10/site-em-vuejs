@@ -3,3 +3,4 @@ npm run dev   --> roda o vue
 Ctrl + c  --> para de rodar o vue
 
 https://www.youtube.com/watch?v=H5PopRSJBTY&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=8
+estou na aula 9
